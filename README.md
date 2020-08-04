@@ -1,9 +1,21 @@
 # 目录
+
+<!DOCTYPE HTML>
+
+<html>
+
+<body>
+
+<div a href="http://www.baidu.com.cn/"> Java基础核心串讲</div>
+</body>
+
+</html>
+
 my private study notes
 注 : 没链接的是还没写
 
 
-<div a href="http://www.baidu.com.cn/"> Java基础核心串讲</div>
+
 
 计算机操作系统与Linux
 
