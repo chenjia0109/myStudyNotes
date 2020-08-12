@@ -1,7 +1,7 @@
 # 目录
 
 
-* Java基础  
+*  [ Java基础](http://note.youdao.com/noteshare?id=7c67e885541e69ef0e954b97cb6c5300)
 
 * 计算机操作系统与Linux
 
