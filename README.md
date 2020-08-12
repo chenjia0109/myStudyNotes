@@ -1,9 +1,9 @@
 # 目录
 
 
-*  [ Java基础目录](http://note.youdao.com/noteshare?id=7c67e885541e69ef0e954b97cb6c5300)
-
-###第一章 Java入门
+*  [ Java基础目录](http://note.youdao.com/noteshare?id=7c67e885541e69ef0e954b97cb6c5300)  
+  
+  ###第一章 Java入门
 
 * 计算机操作系统与Linux
 
